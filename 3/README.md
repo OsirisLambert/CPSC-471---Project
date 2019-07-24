@@ -8,7 +8,7 @@ Shijie Feng   donfeng97@csu.fullerton.edu
 
 Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 
-
+Hector Rodriguez Reyes	   hrod93@csu.fullerton.edu
 
 ### How to run?
 1. Compile all file
