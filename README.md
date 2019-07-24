@@ -1,12 +1,12 @@
 # CPSC-471---Project--FTP-Client&Server--using--Socket-Programming
 
 Group member:
-Lambert Liu   chenxiaoliu_1998@csu.fullerton.edu
+Lambert Liu   chenxiaoliu_1998@csu.fullerton.edu #\n
 Shijie Feng   donfeng97@csu.fullerton.edu
 
 
 
-### How to run?
+# How to run?
 1. Compile all file
 	$ make
 
