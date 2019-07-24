@@ -1,6 +1,6 @@
 # CPSC-471---Project--FTP-Client&Server--using--Socket-Programming
 
-Group member:
+## Group member:
 
 Lambert Liu   chenxiaoliu_1998@csu.fullerton.edu
 
@@ -10,7 +10,7 @@ Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 
 
 
-# How to run?
+## How to run?
 1. Compile all file
 
 	$ make
@@ -32,5 +32,15 @@ Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 	$ ./client 127.0.0.1 2000
 
 
-# Command to use:
+## Command to use:
+```
+- ls  			Lists the current server directory.
 
+- lls  			Lists the current local directory.
+
+- put <FILENAME>  	Uploads the given filename to server.
+	
+- get <FILENAME>  	Downloads the given filename from server.
+
+- quit  		Quit.
+```
