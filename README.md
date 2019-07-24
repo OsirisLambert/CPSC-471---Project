@@ -12,13 +12,16 @@ Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 
 ## How to run?
 1. Compile all file
+
 ```	$ make	```
 2. Run server first, go to server directory, open terminal in server folder, and do:
+
 ```	$ ./server <port #> 	```	
 	Example:
 ```	$ ./server 2000```
 	
 3. Run client second, go to client directory, open terminal in client folder, and do:
+
 ```	$ ./client <ip address> <port #>```	
 	(port # should be same)
 	
