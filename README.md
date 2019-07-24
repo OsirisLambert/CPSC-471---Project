@@ -10,7 +10,7 @@ Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 
 
 
-### How to run?
+# How to run?
 1. Compile all file
 
 	$ make
@@ -32,4 +32,5 @@ Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 	$ ./client 127.0.0.1 2000
 
 
+# Command to use:
 
