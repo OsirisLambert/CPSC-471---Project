@@ -32,13 +32,13 @@ EX: ```$ ./client 127.0.0.1 2000```
 
 ## Command to use:
  
-- ls                 **Lists the current server directory.**
+- ls                 **(Lists the current server directory.)**
 
-- lls                **Lists the current local directory.**
+- lls                **(Lists the current local directory.)**
 
-- put "FILENAME"     **Uploads the given filename to server.**
+- put "FILENAME"     **(Uploads the given filename to server.)**
 	
-- get "FILENAME"     **Downloads the given filename from server.**
+- get "FILENAME"     **(Downloads the given filename from server.)**
 
-- quit               **Quit.**
+- quit               **(Quit.)**
 
