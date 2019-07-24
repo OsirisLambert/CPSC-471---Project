@@ -6,6 +6,7 @@ Lambert Liu   chenxiaoliu_1998@csu.fullerton.edu
 
 Shijie Feng   donfeng97@csu.fullerton.edu
 
+Jacqueline Isabel Cardenas   jacisac@csu.fullerton.edu
 
 
 # How to run?
